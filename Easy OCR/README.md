@@ -14,11 +14,7 @@ AND now , we are going to recognize those license plate character .
 
 
 # How to install 
-in terminal : <br/>
 
-```
-pip install easyocr.py
-```
 
 # How to run 
 
