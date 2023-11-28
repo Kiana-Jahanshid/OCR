@@ -38,7 +38,7 @@ before runnig DTRB.ipynb file , you should run xml_reader.py to to create gt_tra
   | :---: | :---: |
   | 80.793 |  0.47 |
 
-  ![](assets/res5.jpg)
+![img](assets/res5.JPG)
 <br/>
 
  + trained weights :
