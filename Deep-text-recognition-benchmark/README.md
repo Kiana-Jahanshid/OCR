@@ -63,4 +63,4 @@ https://drive.google.com/file/d/1ZnwBmmYhQARGxp-xAk6jdoqLiD7mxIf9/view?usp=drive
 | ![](assets/test_images/20092.jpg "1") | 49m89812 | 
 | ![](assets/test_images/20917.jpg "1") | 52q21829 | 
 | ![](assets/test_images/24836.jpg "1") | 74u19423 | 
-| ![](assets/test_images/IMG_20231128_225637.jpg "1") | my license plate : 12l17210 | 
+| ![](assets/test_images/IMG_20231128_225637.jpg "1") | my car license plate : 12l17210 | 
